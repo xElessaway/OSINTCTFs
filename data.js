@@ -64,7 +64,7 @@ const localCTFData = [
                 {
                     "name": "Deir al-Balah",
                     "description": "Find WWW Password.",
-                    "passwordFormat": "Check the file for format",
+                    "passwordFormat": "FTP Password",
                     "files": [
                         "Deir al-Balah.txt",
                         "Flag.rar"
@@ -101,7 +101,7 @@ const localCTFData = [
                 {
                     "name": "Jerusalem",
                     "description": "Here is a small story about this image: This is John Scopes and his defense lawyers. He was a high school teacher who was arrested for teaching evolution, breaking a new law called the Butler Act. I could find this old image for you. but we need to read more about it. so I need your help to find some information.",
-                    "passwordFormat": "This is John Scopes and his defense lawyers. He was a high school teacher who was arrested for teaching evolution, breaking a new law called the Butler Act. I could find this old image for you. but we need to read more about it. so I need your help to find some information.",
+                    "passwordFormat": "Newspaper_title_MD5ofthenewspaper",
                     "files": [
                         "Flag.rar",
                         "Image.png",
@@ -127,3 +127,4 @@ const localCTFData = [
     }
 ];
 window.localCTFData = localCTFData;
+
