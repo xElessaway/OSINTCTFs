@@ -2,7 +2,7 @@ const localCTFData = [
     {
         "id": 1,
         "title": "First OSINT CTF",
-        "status": "active",
+        "status": "retired",
         "description": "A collection of OSINT challenges. Test your intelligence gathering skills!",
         "year": "2024",
         "totalChallenges": 9,
@@ -127,4 +127,5 @@ const localCTFData = [
     }
 ];
 window.localCTFData = localCTFData;
+
 
