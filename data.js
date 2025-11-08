@@ -5,7 +5,7 @@
 const localCTFData = [
     {
         "id": 1,
-        "title": "Osint 1",
+        "title": "First OSINT CTF",
         "status": "active",
         "description": "A collection of OSINT challenges. Test your intelligence gathering skills!",
         "year": "2024",
@@ -132,4 +132,5 @@ const localCTFData = [
 ];
 
 // Make data globally available
+
 window.localCTFData = localCTFData;
