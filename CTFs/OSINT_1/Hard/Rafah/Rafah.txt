@@ -1,0 +1,3 @@
+Hey there, buddy. I've got a critical mission for you. There's a Russian cybercriminal we need to track down. He's running a Telegram channel where he sells personal data and access to hacked devices, plus he’s extorting victims for cash. The good news? There's a decryption script floating around the internet. Can you track down the MD5 of that script and find out when the Telegram channel was created? Good luck!
+
+Password for Flag.rar: MD5_DD-MM-YYYY_HH:MM
