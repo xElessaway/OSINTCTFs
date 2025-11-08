@@ -319,7 +319,7 @@ body {
     color: var(--success-color);
 }
 
-.status-badge.upcoming {
+.status-badge.retired {
     background: rgba(255, 170, 0, 0.2);
     color: var(--warning-color);
 }
@@ -951,4 +951,5 @@ body {
     .answer-input-group {
         flex-direction: column;
     }
+
 }
